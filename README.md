@@ -13,12 +13,12 @@ Before getting started, make sure you have the following installed on your machi
 
 1. Clone this repository to your local machine:
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/diogozdev/AI-whatsapp.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd your-repo
+cd AI-whatsapp
 ```
 
 3. Install the dependencies:
